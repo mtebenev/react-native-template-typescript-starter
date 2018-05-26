@@ -1,11 +1,23 @@
 {
   "name": "react-native-template-typescript-starter",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
     "test": "jest"
+	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mtebenev/react-native-template-typescript-starter"
   },
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mtebenev/react-native-template-typescript-starter",
   "dependencies": {
     "react": "^16.4.0",
     "react-native": "0.55.4"
